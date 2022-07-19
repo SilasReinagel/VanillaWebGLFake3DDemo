@@ -11,6 +11,11 @@ const html = `
   <div class="button-29" role="button" onclick="location.href='./index3.html';">Demo 2</div>
   <div class="button-29" role="button" onclick="location.href='./index5.html';">Demo 3</div>
   <div class="button-29" role="button" onclick="location.href='./index2.html';">Demo 4</div>
+  <div class="button-29" role="button" onclick="location.href='./int-index.html';">Int Demo 1</div>
+  <div class="button-29" role="button" onclick="location.href='./int-index2.html';">Int Demo 2</div>
+  <div class="button-29" role="button" onclick="location.href='./int-index3.html';">Int Demo 3</div>
+  <div class="button-29" role="button" onclick="location.href='./int-index4.html';">Int Demo 4</div>
+  <div class="button-29" role="button" onclick="location.href='./int-index5.html';">Int Demo 5</div>
 </div>
 `;
 
