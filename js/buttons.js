@@ -8,7 +8,7 @@ function appendHtml(el, str) {
 const html = `
 <div class="buttons">
   <div class="button-29" role="button" onclick="location.href='./index.html';">Demo 1</div>
-  <div class="button-29" role="button" onclick="location.href='./index3.html';">Demo 2</div>
+  <div class="button-29" role="button" onclick="location.href='./index6.html';">Demo 2</div>
   <div class="button-29" role="button" onclick="location.href='./index5.html';">Demo 3</div>
   <div class="button-29" role="button" onclick="location.href='./index2.html';">Demo 4</div>
   <div class="button-29" role="button" onclick="location.href='./int-index.html';">Int Demo 1</div>
